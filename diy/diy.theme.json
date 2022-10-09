@@ -1,9 +1,9 @@
 {
-    "title": "标题",
-    "desc": "描述",
-    "bgm": "/sound-disco.mp3",
+    "title": "国家安全测试",
+    "desc": "守护国家安全是每个广工人的义！务！",
+    "bgm": "/bgm.mp3",
     "dark": true,
-    "background": "",
+    "background": "/background.png",
     "backgroundBlur": false,
     "backgroundColor": "#8dac85",
     "pure": true,
@@ -72,7 +72,7 @@
     "sounds": [
         {
             "name": "sound-undo",
-            "src": "/sound-undo.mp3"
+            "src": "/sound-shift.mp3"
         },
         {
             "name": "sound-shift",
