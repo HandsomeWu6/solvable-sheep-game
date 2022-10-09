@@ -72,11 +72,11 @@
     "sounds": [
         {
             "name": "sound-undo",
-            "src": "/sound-shift.mp3"
+            "src": "/sound-undo.mp3"
         },
         {
             "name": "sound-shift",
-            "src": "/sound-shift.mp3"
+            "src": "/sound-undo.mp3"
         },
         {
             "name": "sound-wash",
